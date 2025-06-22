@@ -1,0 +1,14 @@
+[
+  {
+    "id": "image1",
+    "title": "Sample Image",
+    "type": "image",
+    "file": "image.png"
+  },
+  {
+    "id": "video1",
+    "title": "Sample Video",
+    "type": "video",
+    "file": "video.mp4"
+  }
+]
